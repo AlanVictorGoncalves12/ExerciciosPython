@@ -13,3 +13,4 @@ def dobro(preco):
 def metade(preco):
     res = preco / 2
     return res
+
